@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R +X.
+sh: 1: q:: not found
